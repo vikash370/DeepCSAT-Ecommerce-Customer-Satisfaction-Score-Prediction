@@ -2,9 +2,10 @@ DeepCSAT: E-Commerce Customer Satisfaction Predictor 🤖
 A deep learning project that uses Natural Language Processing (NLP) to analyze customer feedback and predict a Customer Satisfaction (CSAT) score in real-time.
 
 🚀 Live Demo & Screenshot
-You can test the live application here: https://[YOUR_STREAMLIT_APP_URL_HERE]
+You can test the live application here: [https://[YOUR_STREAMLIT_APP_URL_HERE]](https://deepcsat-ecommerce-customer-satisfaction-score-prediction-yxsm.streamlit.app/)
 
-(Replace this image with a screenshot of your running Streamlit app)
+<img width="1904" height="946" alt="Screenshot 2025-10-24 120929" src="https://github.com/user-attachments/assets/4b3f1d7e-ba2c-4a6b-a59e-83669ce4e4a8" />
+
 
 PROBLEM STATEMENT : 
 In the e-commerce sector, understanding customer satisfaction is critical but traditionally slow. 
